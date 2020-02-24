@@ -1,4 +1,0 @@
-111111
-Merge Demo
-这是master添加的内容,
-这是merge添加的内容.
